@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
-
+ 
 public class StoreGUI {
     // TextFields
     private JTextField storeIdAp, storeNameAp1, locationAp2, openingHourAp3, totalSalesAp4, totalDiscountAp5, productNameAp6;
