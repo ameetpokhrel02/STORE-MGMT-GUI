@@ -1,5 +1,7 @@
 Complete Java Based project for bit students at itahari international college year 1 Programming module project GYM management GUI  Java provides a rich framework for building graphical user interfaces (GUIs), primarily through libraries like Swing, JavaFX, and AWT. A typical Java GUI consists of components such as frames (JFrame) that serve as the main window, panels (JPanel) that organize content, and interactive elements like buttons (JButton), text fields (JTextField), and labels (JLabel). These components allow users to interact with the application visually, responding to actions through event listeners (ActionListener). Java’s GUI also supports menus (JMenuBar), lists (JList), and tables (JTable) to structure information efficiently. With Swing, developers can create flexible and visually appealing interfaces, while JavaFX provides enhanced graphics and styling options. Java’s GUI framework offers event-driven programming, meaning components react dynamically to user inputs, making applications interactive and user-friendly. This structured yet customizable approach enables developers to design intuitive and responsive desktop applications that cater to diverse user needs. 
 
 
+Code Relations
+![image](https://github.com/user-attachments/assets/65c562fe-ecc2-4e44-a377-d073d78dfe2c)
 
 ![WhatsApp Image 2025-05-14 at 12 18 55_a1394748](https://github.com/user-attachments/assets/b2f07ca6-6491-4f6a-ad78-08814f2791e9)
