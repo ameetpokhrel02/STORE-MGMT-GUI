@@ -71,7 +71,7 @@ public class Store {
         if (totalSales == 0 && totalDiscount == 0) {
             System.out.println("Store " + storeId + " has no sales or discounts.");
         } else {
-            // It display the store details-
+            // It display the store details.
             System.out.println("Store " + storeId + " details:");
             System.out.println("Name: " + storeName);
             System.out.println("Location: " + location);
