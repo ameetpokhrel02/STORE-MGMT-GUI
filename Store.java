@@ -1,5 +1,5 @@
 public class Store {
-    // It declare private attributes for store
+    // It declare private attributes for store class
     private int storeId;
     private String storeName; 
     private String location; 
