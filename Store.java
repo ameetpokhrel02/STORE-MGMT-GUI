@@ -65,7 +65,7 @@ public class Store {
         totalDiscount += newTotalDiscount;
     }
 
-    // Method that display the store details
+    // Method that display the store details 
     public void display() {
         // Check if total sales and total discount are zero
         if (totalSales == 0 && totalDiscount == 0) {
